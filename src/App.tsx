@@ -125,7 +125,7 @@ const LoginForm: React.FC<LoginFormProps> = ({ onLogin }) => {
         </label>
         <div className="relative">
           <input
-            type={showPassword ? "text" : "password"} // Toggle input type
+            type={showPassword ? "text" : "password"}
             id="password"
             value={formData.password}
             onChange={(e) =>
@@ -139,7 +139,7 @@ const LoginForm: React.FC<LoginFormProps> = ({ onLogin }) => {
           />
           <button
             type="button"
-            onClick={() => setShowPassword(!showPassword)} // Toggle password visibility
+            onClick={() => setShowPassword(!showPassword)}
             className="absolute inset-y-0 right-0 pr-3 flex items-center text-sm leading-5"
           >
             {showPassword ? (
