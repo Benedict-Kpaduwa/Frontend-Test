@@ -4,7 +4,7 @@ This is a simple React-based web application that allows users to log in and vie
 
 ## Features
 
-- **Login Form**: Users can log in using a predefined email and password.
+- **Login Form**: Users can log in using a predefined email and password namely "benedictkpaduwa@gmail.com" and "password123".
 - **Transaction History**: After logging in, users can view a list of transactions.
 
 ## Prerequisites
