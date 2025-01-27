@@ -23,7 +23,7 @@ git clone https://github.com/Benedict-Kpaduwa/Frontend-Test.git
 cd bankit-app
 ```
 
-# Questions and Answers
+# General Knowledge Questions and Answers
 
 
 ## Section A: General Security and Compliance
